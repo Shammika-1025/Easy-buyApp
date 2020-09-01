@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932753340058",
+    "firebase_url": "https://easybuy-525be.firebaseio.com",
+    "project_id": "easybuy-525be",
+    "storage_bucket": "easybuy-525be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932753340058:android:4e1e58e73a90beb1005123",
+        "android_client_info": {
+          "package_name": "com.example.easybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932753340058-hbkh2h8e6eu7r0pjpsnt3cqlridp8ilu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easybuy",
+            "certificate_hash": "f2396a569833afb016bfb63f4ed216a45b56013a"
+          }
+        },
+        {
+          "client_id": "932753340058-rad7uaendd2c1ame4i7dfe0m094arf50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltYVOLlfiyYh8hKCJTUafN8naNaaD2Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932753340058-rad7uaendd2c1ame4i7dfe0m094arf50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
